@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgentFone — A preview of what smartphones will look like</title>
+  <meta name="description" content="AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI that controls everything." />
+  <meta property="og:title" content="AgentFone" />
+  <meta property="og:description" content="A preview of what smartphones will look like" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://agentfone.io" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>" />
+</head>
+<body>
+
+  <!-- Nav -->
+  <nav>
+    <div class="container">
+      <a href="/" class="nav-logo">AgentFone</a>
+      <button class="nav-hamburger" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="/developers.html">Developers</a></li>
+        <li><a href="/hardware.html">Hardware</a></li>
+        <li><a href="https://github.com/anthropics/agentfone" target="_blank">GitHub</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <h1 class="fade-in">A preview of what smartphones<br />will look like</h1>
+      <p class="subtitle fade-in">AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI that controls everything.</p>
+      <div class="hero-actions fade-in">
+        <a href="https://github.com/anthropics/agentfone/releases" class="btn btn-primary" target="_blank">Download APK</a>
+        <a href="https://github.com/anthropics/agentfone" class="btn btn-secondary" target="_blank">Star on GitHub</a>
+      </div>
+
+      <!-- Video -->
+      <div class="video-wrapper fade-in">
+        <iframe
+          src="https://www.youtube.com/embed/?rel=0&modestbranding=1"
+          title="AgentFone demo"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+        <div class="video-placeholder">Demo video coming soon</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section>
+    <div class="container">
+      <div class="section-header fade-in">
+        <div class="divider"></div>
+        <h2>What makes it different</h2>
+      </div>
+      <div class="card-grid">
+        <div class="card fade-in">
+          <div class="card-label">01</div>
+          <h3>Build apps by talking</h3>
+          <p>Describe what you need. Your AI builds custom apps in seconds — no app store, no downloads, no waiting.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card-label">02</div>
+          <h3>Your phone, your way</h3>
+          <p>Every homescreen is unique, designed by AI around how you actually use your phone. It reshapes itself around you.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card-label">03</div>
+          <h3>Community powered</h3>
+          <p>Browse and install apps built by other users. One person's custom creation becomes everyone's shortcut.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Developer Program -->
+  <section>
+    <div class="container dev-program fade-in">
+      <div class="divider"></div>
+      <div class="amount">$100K</div>
+      <h2>Developer Program</h2>
+      <p class="subtitle" style="margin: 16px auto 32px;">We're distributing $100,000 to developers who build apps, find bugs, and grow the AgentFone community.</p>
+      <a href="/developers.html" class="btn btn-ghost">Learn more &rarr;</a>
+    </div>
+  </section>
+
+  <!-- Hardware Teaser -->
+  <section>
+    <div class="container teaser-block fade-in">
+      <div class="divider"></div>
+      <h2>Coming in hardware</h2>
+      <p>AgentFone isn't just software. We're shipping a dedicated phone — starting at $200.</p>
+      <p class="mono muted" style="margin-top: 8px;">Shipping limited units April 2026</p>
+      <a href="/hardware.html" class="btn btn-ghost" style="margin-top: 24px;">See the phone &rarr;</a>
+      <div class="device-placeholder">
+        Device render coming soon
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <span class="copyright">&copy; 2026 AgentFone</span>
+      <ul class="footer-links">
+        <li><a href="https://github.com/anthropics/agentfone" target="_blank">GitHub</a></li>
+        <li><a href="https://twitter.com/agentfone" target="_blank">Twitter</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
