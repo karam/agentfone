@@ -1,6 +1,10 @@
-# AgentFone
+<p align="center">
+  <img src="logo.png" alt="AgentFone" width="120">
+</p>
 
-**A preview of what smartphones will look like.**
+<h1 align="center">AgentFone</h1>
+
+<p align="center"><strong>A preview of what smartphones will look like.</strong></p>
 
 AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI that controls everything. It builds apps for you, designs your homescreen around your life, and controls your hardware through conversation.
 
