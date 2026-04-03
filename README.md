@@ -4,6 +4,8 @@
 
 AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI that controls everything. It builds apps for you, designs your homescreen around your life, and controls your hardware through conversation.
 
+[![Watch the preview](https://img.youtube.com/vi/1A0P13Xqmz4/maxresdefault.jpg)](https://youtube.com/shorts/1A0P13Xqmz4)
+
 ## Download
 
 **[Download the APK](https://github.com/karam/agentfone/releases)** and install it on any Android phone. AgentFone replaces your launcher — your phone becomes an AI phone.
