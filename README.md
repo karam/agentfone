@@ -8,35 +8,43 @@ AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI t
 
 **[Download the APK](https://github.com/karam/agentfone/releases)** and install it on any Android phone. AgentFone replaces your launcher — your phone becomes an AI phone.
 
-## $100K Developer Program
+## $100K Contributor Program
 
-We're distributing **$100,000** to developers who build apps, find bugs, and grow the AgentFone community.
+We're distributing **$100,000** across six tracks — not just developers. Designers, product thinkers, AI researchers, content creators, and security researchers all earn the same points and the same rewards.
 
-| Track | Pool | How |
-|-------|------|-----|
-| Bug Bounties | $25K | Find bugs, get $25–$2,000 per verified report |
-| App Quality | $40K | Build apps people use — earn on 7-day retained installs |
-| Community | $15K | Tutorials, reviews, helping others build |
-| Bounty Board | $20K | We post apps we need, you build them, you get paid |
+| Track | Who | What You Do |
+|-------|-----|-------------|
+| **Builders** | Developers | Build agents, SDK tools, homescreen themes |
+| **Shapers** | Designers | Invent new UI paradigms, mockups, design research |
+| **Navigators** | Product Managers | Feature specs, user research, prototypes |
+| **Tuners** | AI Researchers | Model evaluations, benchmarks, prompt engineering |
+| **Storytellers** | Content Creators | Tutorials, blog posts, videos, documentation |
+| **Guardians** | Security Researchers | Vulnerability reports, red-teaming, hardening |
 
-**[Learn more at agentfone.io/developers](https://agentfone.io/developers.html)**
+Every contribution earns points. Points unlock tiers with real rewards — from contributor badges to free hardware, revenue share, and advisory board seats.
 
-## Star this repo
+**[Full program details](docs/contributor-program.md)** | **[Bounty board](docs/bounty-board.md)**
 
-Source code dropping soon. **Star to get notified** when we open-source AgentFone.
+## Agent SDK (Coming Soon)
 
-## Screenshots
+The Agent SDK will be open source (MIT). It includes everything you need to build, test, and publish agents:
 
-> Screenshots coming soon.
+- Agent spec (server.js + config.json + bridge protocol)
+- 30+ phone hardware actions (camera, mic, GPS, contacts, SMS, notifications, and more)
+- Local dev server with simulated phone environment
+- CLI tool for publishing to the community store
+- Example agents covering common patterns
 
-## Report bugs
+Star this repo to get notified when it drops.
+
+## Report Bugs
 
 Found a bug? [Open an issue](https://github.com/karam/agentfone/issues/new) with:
 - Device model and Android version
 - Steps to reproduce
 - Screenshot or screen recording if possible
 
-Bug bounties range from $25 to $2,000 depending on severity.
+Bug bounties range from $25 to $5,000 depending on severity.
 
 ## Links
 
