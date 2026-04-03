@@ -29,7 +29,7 @@ Every contribution earns points. Points are the same across all tracks — a des
 
 | Tier | Points | Perks |
 |------|--------|-------|
-| **Contributor** | 0+ | Profile on agentfone.io/contributors, Discord access |
+| **Contributor** | 0+ | Profile on agentfone.ai/contributors, Discord access |
 | **Bronze** | 500 | Contributor badge, early access to new features, priority waitlist |
 | **Silver** | 2,000 | Direct channel with the team, beta hardware access, featured on homepage |
 | **Gold** | 5,000 | Free AgentFone device (when hardware ships), revenue share bump to 85/15, speaking slot at community events |
@@ -283,7 +283,7 @@ Out of scope:
 
 ### Responsible Disclosure
 
-1. Report findings privately via security@agentfone.io (or a dedicated channel once launched)
+1. Report findings privately via security@agentfone.ai (or a dedicated channel once launched)
 2. We acknowledge within 48 hours
 3. We fix critical issues within 7 days, high within 14 days
 4. You get credited (unless you prefer anonymity) once the fix ships
@@ -298,9 +298,9 @@ The program launches soon. Here's what's coming:
 1. **Agent SDK** — open source repo with the agent spec, examples, and local dev tools
 2. **Discord** — track-specific channels, bounty announcements, weekly reviews
 3. **Bounty board** — initial set of paid bounties across all tracks (see [bounty-board.md](bounty-board.md))
-4. **Contributor portal** — agentfone.io/contributors with profiles, points, leaderboard
+4. **Contributor portal** — agentfone.ai/contributors with profiles, points, leaderboard
 
-To get early access, follow [@AgentFone](https://x.com/agentfone) or join the waitlist at [agentfone.io](https://agentfone.io).
+To get early access, follow [@AgentFone](https://x.com/agentfone) or join the waitlist at [agentfone.ai](https://agentfone.ai).
 
 ---
 

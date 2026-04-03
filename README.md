@@ -54,7 +54,7 @@ Bug bounties range from $25 to $5,000 depending on severity.
 
 ## Links
 
-- **Website:** [agentfone.io](https://agentfone.io)
-- **Developer Program:** [agentfone.io/developers](https://agentfone.io/developers.html)
-- **Hardware:** [agentfone.io/hardware](https://agentfone.io/hardware.html)
+- **Website:** [agentfone.ai](https://agentfone.ai)
+- **Developer Program:** [agentfone.ai/developers](https://agentfone.ai/developers.html)
+- **Hardware:** [agentfone.ai/hardware](https://agentfone.ai/hardware.html)
 - **Twitter:** [@agentfone](https://twitter.com/agentfone)
