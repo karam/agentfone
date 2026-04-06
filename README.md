@@ -14,6 +14,8 @@ AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI t
 
 **[Download the APK](https://github.com/karam/agentfone/releases)** and install it on any Android phone. AgentFone replaces your launcher — your phone becomes an AI phone.
 
+> ⭐ Star this repo to get updates on new releases and the contributor program.
+
 ## $100K Contributor Program
 
 We're distributing **$100,000** across six tracks — not just developers. Designers, product thinkers, AI researchers, content creators, and security researchers all earn the same points and the same rewards.
