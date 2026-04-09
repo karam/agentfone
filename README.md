@@ -12,7 +12,7 @@ AgentFone is an AI-native phone. No app drawer. No widgets. Just you and an AI t
 
 ## Download
 
-**[Download the APK](https://github.com/karam/agentfone/releases)** and install it on any Android phone. AgentFone replaces your launcher — your phone becomes an AI phone.
+**[Download the APK](https://agentfone.ai/agentfone.apk)** and install it on any Android phone. AgentFone replaces your launcher — your phone becomes an AI phone.
 
 > ⭐ Star this repo to get updates on new releases and the contributor program.
 
